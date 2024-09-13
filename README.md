@@ -1,5 +1,5 @@
 - Hi!
-- I’m @CodingOwlet AKA Erin Corrado
+- I’m @CodingOwlet AKA Erin Corrado.  
 - I am new to the Humber Computer Programming program.  
 - This is my task for Exercise 1 in my Web Programming and Design class.  
 - Hope you enjoy this little interactive quiz!  
